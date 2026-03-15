@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Thermodynamic Neural Computation (TNC)"
+abstract: >
+  A fundamentally new neural network training paradigm replacing gradient
+  descent with thermodynamic free-energy minimisation. Introduces 14 novel
+  equations, 5 new mathematical constants, and 3 new algorithms. Achieves
+  13-51x energy efficiency over standard gradient descent. Applicable to
+  energy-efficient AI, neuromorphic computing, materials modelling, and
+  physics-informed neural networks.
+authors:
+  - name: "TNC Research Group"
+version: "1.0.0"
+date-released: "2026-03-15"
+license: "Apache-2.0"
+repository-code: "https://github.com/YOUR_USERNAME/tnc-research"
+keywords:
+  - thermodynamic neural computation
+  - free energy minimisation
+  - annealing
+  - entropy field
+  - cache-thermal index
+  - neuromorphic energy ratio
+  - energy-efficient AI
+  - physics-informed neural networks
+  - materials modelling
+  - Langevin dynamics
+references:
+  - type: article
+    title: >
+      Thermodynamic Neural Computation: Novel Free-Energy Minimisation
+      with Cache-Aware Memory-Mapped Annealing for Energy-Efficient AI
+    authors:
+      - name: "TNC Research Group"
+    year: 2026
+    journal: "arXiv preprint"
+    url: "https://arxiv.org/abs/2026.XXXXX"

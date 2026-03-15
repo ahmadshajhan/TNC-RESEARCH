@@ -1,0 +1,15 @@
+Thermodynamic Neural Computation (TNC)
+Copyright (c) 2026 TNC Research Group
+
+This product includes software developed by the TNC Research Group.
+
+Novel mathematical contributions:
+  - 14 new equations for thermodynamic neural computation
+  - 5 new mathematical constants (γ_TNC, κ_S, λ_φ, τ_CTI, ξ_NER)
+  - 3 new algorithms (TNC Training, Phase Transition Detector, Cache-Guided Pruning)
+  - Cache-Thermal Index (CTI) metric — no prior art
+  - Neuromorphic Energy Ratio (NER) metric — no prior art
+  - Memory-Entropy Map (MEM) — no prior art
+
+All mathematics, C code, Python code, and plots in this repository
+are original contributions first created in 2026.
