@@ -5,7 +5,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-2026.XXXXX-b31b1b.svg)](https://arxiv.org)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXX-blue.svg)](https://zenodo.org)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19029046.svg)](https://doi.org/10.5281/zenodo.19029046)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)](https://python.org)
 [![C](https://img.shields.io/badge/C-C11-orange.svg)](code/tnc_core.c)
 
@@ -508,9 +508,9 @@ No rights reserved — use freely without restriction.
 
 **arXiv preprint:** [https://arxiv.org/abs/2026.XXXXX](https://arxiv.org) *(submit your paper here first)*
 
-**Zenodo repository:** [https://zenodo.org/record/XXXXXXX](https://zenodo.org) *(for permanent DOI)*
+**Zenodo repository:** [https://doi.org/10.5281/zenodo.19029046](https://zenodo.org) 
 
-**GitHub:** [https://github.com/YOUR_USERNAME/tnc-research](https://github.com)
+**GitHub:** [hhttps://github.com/ahmadshajhan/TNC-RESEARCH/tree](https://github.com)
 
 **Target journals:**
 - Nature Machine Intelligence
